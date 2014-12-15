@@ -122,3 +122,6 @@ License
 
 The content of this repository is licensed under a [BSD 2-ClauseLicense]
 (./LICENSE.md).
+
+
+ [This data is mirrored and can be queried via API here](https://www.exversion.com/data/view/D03FYUX6XFLVWWH)
